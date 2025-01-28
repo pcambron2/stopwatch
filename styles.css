@@ -63,25 +63,25 @@ button:hover {
 }
 
 #stopBtn {
-    background-color: #dc3545;
+    background-color: #007bff;
 }
 
 #stopBtn:hover {
-    background-color: #c82333;
+    background-color: #0056b3;
 }
 
 #resetBtn {
-    background-color: #6c757d;
+    background-color: #007bff;
 }
 
 #resetBtn:hover {
-    background-color: #545b62;
+    background-color: #0056b3;
 }
 
 #lapBtn {
-    background-color: #28a745;
+    background-color: #007bff;
 }
 
 #lapBtn:hover {
-    background-color: #218838;
+    background-color: #0056b3;
 } 
